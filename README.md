@@ -105,4 +105,4 @@ Editar
 
 ## 📬 Contacto
 
-Para más información o sugerencias, puedes contactar con el autor a través de [LinkedIn](www.linkedin.com/in/álvaro-rodríguez-yagüe) o por correo académico.
+Para más información o sugerencias, puedes contactar con el autor a través de [LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-rodr%C3%ADguez-yag%C3%BCe/) o por correo académico.
